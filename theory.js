@@ -736,5 +736,3 @@ if (userInput === 'clear') {
 if (e.key !== 'Enter') return;
 //  instead of checking e.key === 'Enter' in every condition?
 //  Answer: In this case "e.key" is used as a guard clause. A guard clause simplifies the logic by immediately exiting the function for irrelevant keys, keeping command checks clean and unnested. A guard clause prevents deep nesting and redundant checks by "failing fast," allowing to focus purely on command logic without repeatedly verifying the "Enter" key. The "Enter" key was transformed from a repeated requirement into a single "gatekeeper" that protects the rest of the code.
-
-
