@@ -1,4 +1,4 @@
-# ⌨️ Keyboard Events & Key Properties --- JavaScript (Module 08, Lesson 05)
+# ⌨️ 🟧 Module 8 - Events: Lesson 05. Keyboard Events and Key Properties
 
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
 ![Module](https://img.shields.io/badge/Module-08%20Events-blue)
